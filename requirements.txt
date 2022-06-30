@@ -17,5 +17,4 @@ six==1.16.0
 sklearn==0.0
 threadpoolctl==3.1.0
 Werkzeug==2.1.2
--f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.8/index.html
-detectron2
+git+https://github.com/facebookresearch/detectron2.git
