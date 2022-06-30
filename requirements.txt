@@ -33,7 +33,9 @@ Werkzeug==2.1.2
 #torch==1.6.0+cpu
 #torchvision==0.7.0+cpu
 
-https://download.pytorch.org/whl/cpu/torch-1.0.0-cp37-cp37m-linux_x86_64.whl
+--find-links https://download.pytorch.org/whl/torch_stable.html
+#https://download.pytorch.org/whl/cpu/torch-1.0.0-cp37-cp37m-linux_x86_64.whl
+torch==1.0.0+cpu
 torchvision==0.2.1
 
 # Detectron
