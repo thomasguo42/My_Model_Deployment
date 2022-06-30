@@ -24,5 +24,6 @@ Werkzeug==2.1.2
 
 # Detectron
 #--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/index.html
---find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.10/index.html
+#--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.10/index.html
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
 detectron2
