@@ -46,4 +46,5 @@ torchvision==0.13.0+cpu
 #--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.10/index.html
 #--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
 #--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.8/index.html
-#detectron2
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.10/index.html
+detectron2
