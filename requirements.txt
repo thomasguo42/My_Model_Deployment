@@ -49,5 +49,5 @@ torchvision==0.13.0+cpu
 #--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.10/index.html
 #detectron2
 #git+https://github.com/facebookresearch/detectron2.git
-git clone https://github.com/facebookresearch/detectron2.git
--e detectron2
+#git clone https://github.com/facebookresearch/detectron2.git
+#-e detectron2
