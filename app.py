@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 from flask import Flask, request, render_template
 import detectron2
+print ('hello world')
 
 app = Flask(__name__)
 
